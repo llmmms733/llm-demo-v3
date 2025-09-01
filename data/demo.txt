@@ -1,0 +1,5 @@
+Paris is the capital of France.
+Copenhagen is the capital of Denmark.
+Berlin is the capital of Germany.
+This file is just a demo to test the QA system.
+

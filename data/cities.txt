@@ -1,0 +1,5 @@
+Madrid is the capital of Spain.
+Rome is the capital of Italy.
+London is the capital of the UK.
+Athens is the capital of Greece.
+
